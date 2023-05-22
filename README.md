@@ -1,4 +1,4 @@
-![GIF del proyecto XYZ](http://www.gifbay.com/gif/duck_athlete-35367/)
+![](https://github.com/revkelo/duck1.gif)
 # Bienvenido/a a mi perfil de GitHub 🚀
 
 ¡Hola! Soy Kevin Gonzalez, un estudiante de Ingeniería de Sistemas en el tercer semestre. Me apasiona el desarrollo de software y la resolución de problemas a través de la programación. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes tecnologías y lenguajes.
@@ -21,8 +21,8 @@ Aquí hay una muestra de algunos de los proyectos en los que he trabajado:
 Este proyecto es una página web diseñada para gestionar y rastrear la información de los aspirantes a una determinada institución o programa. Utiliza tecnologías como JSP (JavaServer Pages) y Java para desarrollar una aplicación web dinámica que permita a los administradores realizar operaciones CRUD (Create, Read, Update, Delete) en la base de datos de los aspirantes.
 
 2. **Pokemon-cliente y Servidor** 
-  - [Enlace al repositorio](https://github.com/YAMlNORYUU/Pokemon_Cliente)
-  - [Enlace al repositorio](https://github.com/YAMlNORYUU/Pokemon-Servidor)
+  - [Pokemon cliente](https://github.com/YAMlNORYUU/Pokemon_Cliente)
+  - [Pokemon Servidor](https://github.com/YAMlNORYUU/Pokemon-Servidor)
 
 
 
