@@ -1,6 +1,7 @@
+![GIF del proyecto XYZ](https://giphy.com/gifs/duck-xHMcjnlst9JqU)
 # Bienvenido/a a mi perfil de GitHub 🚀
 
-¡Hola! Soy [Tu nombre], un estudiante de Ingeniería de Sistemas en el tercer semestre. Me apasiona el desarrollo de software y la resolución de problemas a través de la programación. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes tecnologías y lenguajes.
+¡Hola! Soy Kevin Gonzalez, un estudiante de Ingeniería de Sistemas en el tercer semestre. Me apasiona el desarrollo de software y la resolución de problemas a través de la programación. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes tecnologías y lenguajes.
 
 ## Sobre mí
 
@@ -14,22 +15,25 @@
 
 Aquí hay una muestra de algunos de los proyectos en los que he trabajado:
 
-1. **Proyecto XYZ** - [Enlace al repositorio](https://github.com/tu-usuario/proyecto-xyz)
-   ![GIF del proyecto XYZ](url-del-gif)
+1. **Aspirantes UEB** - [Enlace al repositorio](https://github.com/revkelo/Aspirantes-UEB-Proyecto)
 
-   Descripción breve del proyecto XYZ y las tecnologías utilizadas.
 
-2. **Aplicación ABC** - [Enlace al repositorio](https://github.com/tu-usuario/aplicacion-abc)
-   ![GIF de la aplicación ABC](url-del-gif)
+Este proyecto es una página web diseñada para gestionar y rastrear la información de los aspirantes a una determinada institución o programa. Utiliza tecnologías como JSP (JavaServer Pages) y Java para desarrollar una aplicación web dinámica que permita a los administradores realizar operaciones CRUD (Create, Read, Update, Delete) en la base de datos de los aspirantes.
 
-   Breve descripción de la aplicación ABC y cómo se construyó utilizando las tecnologías mencionadas.
+2. **Pokemon-cliente y Servidor** 
+  - [Enlace al repositorio](https://github.com/YAMlNORYUU/Pokemon_Cliente)
+  - [Enlace al repositorio](https://github.com/YAMlNORYUU/Pokemon-Servidor)
+
+
+
+Programa basado en la PC de pokemon, el cual se permite almacenar a pokemones de la segunda generación dentro de tres cajas diferentes, las cuales son infinitas , ademas de esto se permite que el usuario puede intercambiar los 6 pokemones que tenga en el "inventario" o "bolsillo", ademas de esto se pueden agregar y eliminar pokemones de cada caja.
+Aquí usamos tecnologías para conectar puertos y recibir información entre servidor y cliente, y utilizamos la API de Pokédex, todo con Java.
 
 ## Contacto
 
 Si estás interesado/a en colaborar en proyectos emocionantes o simplemente quieres conectarte, ¡no dudes en contactarme!
 
-- LinkedIn: [Tu perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- Correo electrónico: [tu-correo@example.com]
+- Correo electrónico: [kgagudelo@gmail.com]
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y contribuciones. No dudes en explorar los repositorios y ponerse en contacto conmigo si tienes alguna pregunta o propuesta. ¡Hagamos cosas geniales juntos! 😄
 
