@@ -1,4 +1,4 @@
-![](https://github.com/revkelo/duck1.gif)
+![App Screenshot](/duck1.gif?raw=true "Imagen1")
 # Bienvenido/a a mi perfil de GitHub 🚀
 
 ¡Hola! Soy Kevin Gonzalez, un estudiante de Ingeniería de Sistemas en el tercer semestre. Me apasiona el desarrollo de software y la resolución de problemas a través de la programación. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes tecnologías y lenguajes.
