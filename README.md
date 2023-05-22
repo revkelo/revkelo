@@ -1,4 +1,4 @@
-![GIF del proyecto XYZ](https://giphy.com/gifs/duck-xHMcjnlst9JqU)
+![GIF del proyecto XYZ](http://www.gifbay.com/gif/duck_athlete-35367/)
 # Bienvenido/a a mi perfil de GitHub 🚀
 
 ¡Hola! Soy Kevin Gonzalez, un estudiante de Ingeniería de Sistemas en el tercer semestre. Me apasiona el desarrollo de software y la resolución de problemas a través de la programación. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes tecnologías y lenguajes.
