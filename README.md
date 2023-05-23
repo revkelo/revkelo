@@ -34,7 +34,7 @@ Aquí hay una muestra de algunos de los proyectos en los que he trabajado:
 
 1. **Aspirantes UEB** - [Enlace al repositorio](https://github.com/revkelo/Aspirantes-UEB-Proyecto)
 
-
+    <img src="Aspirante.PNG" width="300" />
 
     
 
