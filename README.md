@@ -1,5 +1,8 @@
-![App Screenshot](/duck1.gif?raw=true "Imagen1")
-# ¡Hola! Soy Kevin Gonzalez 🚀
+<div id="header" align="center">
+    <img src="duck1.gif" width="200" />
+    <h1 align="center">¡Hola! Soy Kevin Gonzalez 🚀</h1>
+</div>
+
 
 ¡Hola! Soy Kevin Gonzalez, un estudiante de Ingeniería de Sistemas en el tercer semestre. Me apasiona el desarrollo de software y la resolución de problemas a través de la programación. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes tecnologías y lenguajes.
 
@@ -11,6 +14,18 @@
 - 🌱 Estoy siempre aprendiendo y mejorando mis habilidades de programación.
 - 🎓 Me encanta participar en proyectos desafiantes y colaborar en equipos de desarrollo.
 
+<div align="left">
+    <h3>🔨 Lenguajes y Herramientas:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+      </div>
+</div>
 ## Proyectos destacados
 
 Aquí hay una muestra de algunos de los proyectos en los que he trabajado:
@@ -18,11 +33,21 @@ Aquí hay una muestra de algunos de los proyectos en los que he trabajado:
 1. **Aspirantes UEB** - [Enlace al repositorio](https://github.com/revkelo/Aspirantes-UEB-Proyecto)
 
 
+
+    
+
 Este proyecto es una página web diseñada para gestionar y rastrear la información de los aspirantes a una determinada institución o programa. Utiliza tecnologías como JSP (JavaServer Pages) y Java para desarrollar una aplicación web dinámica que permita a los administradores realizar operaciones CRUD (Create, Read, Update, Delete) en la base de datos de los aspirantes.
 
 2. **Pokemon-cliente y Servidor** 
   - [Pokemon cliente](https://github.com/YAMlNORYUU/Pokemon_Cliente)
   - [Pokemon Servidor](https://github.com/YAMlNORYUU/Pokemon-Servidor)
+
+
+    <img src="https://github.com/YAMlNORYUU/Pokemon_Cliente/blob/main/IMAGENES/menu.jfif?raw=true" width="600" />
+    
+    
+    <img src="https://github.com/YAMlNORYUU/Pokemon_Cliente/blob/main/IMAGENES/PC.jfif?raw=true" width="600" />
+
 
 
 
