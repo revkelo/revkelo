@@ -4,7 +4,7 @@
 </div>
 
 
-¡Hola! Soy Kevin Gonzalez, un estudiante de Ingeniería de Sistemas en el tercer semestre. Me apasiona el desarrollo de software y la resolución de problemas a través de la programación. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes tecnologías y lenguajes.
+¡Hola! Soy Kevin Gonzalez, un estudiante de Ingeniería de Sistemas en el cuarto semestre. Me apasiona el desarrollo de software y la resolución de problemas a través de la programación. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes tecnologías y lenguajes.
 
 ## Sobre mí
 
