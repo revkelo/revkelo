@@ -6,9 +6,10 @@
 
 ¡Hola! Soy Kevin Gonzalez, un estudiante de Ingeniería de Sistemas en el cuarto semestre. Me apasiona el desarrollo de software y la resolución de problemas a través de la programación. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes tecnologías y lenguajes.
 
+¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y contribuciones. No dudes en explorar los repositorios y ponerse en contacto conmigo si tienes alguna pregunta o propuesta. ¡Hagamos cosas geniales juntos! 😄
 ## Sobre mí
 
-- 📚 Actualmente estoy cursando el tercer semestre de mi carrera de Ingeniería de Sistemas.
+- 📚 Actualmente estoy cursando el cuarto semestre de mi carrera de Ingeniería de Sistemas.
 - 💻 Me especializo en el desarrollo de aplicaciones utilizando Java y tecnologías relacionadas.
 - ⚙️ Algunas de las tecnologías y frameworks que manejo son Spring Boot, JSF, JSP y Bootstrap.
 - 🌱 Estoy siempre aprendiendo y mejorando mis habilidades de programación.
@@ -69,20 +70,6 @@ Si estás interesado/a en colaborar en proyectos emocionantes o simplemente quie
 
 - Correo electrónico: [kgagudelo@gmail.com]
 
-¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y contribuciones. No dudes en explorar los repositorios y ponerse en contacto conmigo si tienes alguna pregunta o propuesta. ¡Hagamos cosas geniales juntos! 😄
 
 
-<!--
-**revkelo/revkelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
