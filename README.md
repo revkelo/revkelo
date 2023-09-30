@@ -1,38 +1,39 @@
-<div id="header" align="center">
+
+<body>
+<div align="center">
     <img src="duck1.gif" width="200" />
-    <h1 align="center">¡Hola! Soy Kevin Gonzalez 🚀</h1>
+    <h1>¡Hola! Soy Kevin Gonzalez 🚀</h1>
 </div>
 
+<p>¡Hola! Soy Kevin Gonzalez, un estudiante de Ingeniería de Sistemas en el cuarto semestre. Me apasiona el desarrollo de software y la resolución de problemas a través de la programación. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes tecnologías y lenguajes.</p>
 
-¡Hola! Soy Kevin Gonzalez, un estudiante de Ingeniería de Sistemas en el cuarto semestre. Me apasiona el desarrollo de software y la resolución de problemas a través de la programación. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes tecnologías y lenguajes.
+<p>¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y contribuciones. No dudes en explorar los repositorios y ponerse en contacto conmigo si tienes alguna pregunta o propuesta. ¡Hagamos cosas geniales juntos! 😄</p>
 
-¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y contribuciones. No dudes en explorar los repositorios y ponerse en contacto conmigo si tienes alguna pregunta o propuesta. ¡Hagamos cosas geniales juntos! 😄
-## Sobre mí
+<h2>Sobre mí</h2>
 
-- 📚 Actualmente estoy cursando el cuarto semestre de mi carrera de Ingeniería de Sistemas.
-- 💻 Me especializo en el desarrollo de aplicaciones utilizando Java y tecnologías relacionadas.
-- ⚙️ Algunas de las tecnologías y frameworks que manejo son Spring Boot, JSF, JSP y Bootstrap.
-- 🌱 Estoy siempre aprendiendo y mejorando mis habilidades de programación.
-- 🎓 Me encanta participar en proyectos desafiantes y colaborar en equipos de desarrollo.
+<ul>
+    <li>📚 Actualmente estoy cursando el cuarto semestre de mi carrera de Ingeniería de Sistemas.</li>
+    <li>💻 Me especializo en el desarrollo de aplicaciones utilizando Java y tecnologías relacionadas.</li>
+    <li>⚙️ Algunas de las tecnologías y frameworks que manejo son Spring Boot, JSF, JSP y Bootstrap.</li>
+    <li>🌱 Estoy siempre aprendiendo y mejorando mis habilidades de programación.</li>
+    <li>🎓 Me encanta participar en proyectos desafiantes y colaborar en equipos de desarrollo.</li>
+</ul>
 
-<div align="left">
+<div>
     <h3>🔨 Lenguajes y Herramientas:</h3>
-    <div>
-              <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" **alt="Spring" width="40" height="40"/>
-
-      </div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>
 </div>
-## Proyectos destacados
 
+<h2>Proyectos destacados</h2>
 
-Aquí hay una muestra de algunos de los proyectos en los que he trabajado:
+<p>Aquí hay una muestra de algunos de los proyectos en los que he trabajado:</p>
+
 
 1. **Aspirantes UEB** - [Enlace al repositorio](https://github.com/revkelo/Aspirantes-UEB-Proyecto)
 
@@ -52,24 +53,16 @@ Este proyecto es una página web diseñada para gestionar y rastrear la informac
   - [Pokemon cliente](https://github.com/YAMlNORYUU/Pokemon_Cliente)
   - [Pokemon Servidor](https://github.com/YAMlNORYUU/Pokemon-Servidor)
 
-
-    <img src="https://github.com/YAMlNORYUU/Pokemon_Cliente/blob/main/IMAGENES/menu.jfif?raw=true" width="600" />
-    
-    
+<div align="center">
+    <img  src="https://github.com/YAMlNORYUU/Pokemon_Cliente/blob/main/IMAGENES/menu.jfif?raw=true" width="600" />
     <img src="https://github.com/YAMlNORYUU/Pokemon_Cliente/blob/main/IMAGENES/PC.jfif?raw=true" width="600" />
+</div>
 
 
 
+<h2>Contacto</h2>
 
-Programa basado en la PC de pokemon, el cual se permite almacenar a pokemones de la segunda generación dentro de tres cajas diferentes, las cuales son infinitas , ademas de esto se permite que el usuario puede intercambiar los 6 pokemones que tenga en el "inventario" o "bolsillo", ademas de esto se pueden agregar y eliminar pokemones de cada caja.
-Aquí usamos tecnologías para conectar puertos y recibir información entre servidor y cliente, y utilizamos la API de Pokédex, todo con Java.
+<p>Si estás interesado en colaborar en proyectos emocionantes o simplemente quieres conectarte, ¡no dudes en contactarme!</p>
 
-## Contacto
-
-Si estás interesado/a en colaborar en proyectos emocionantes o simplemente quieres conectarte, ¡no dudes en contactarme!
-
-- Correo electrónico: [kgagudelo@gmail.com]
-
-
-
-
+<p>Correo electrónico: <a href="mailto:kgagudelo@gmail.com">kgagudelo@gmail.com</a></p>
+</body>
