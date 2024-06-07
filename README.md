@@ -5,7 +5,7 @@
     <h1>¡Hola! Soy Kevin Gonzalez 🚀</h1>
 </div>
 
-<p>¡Hola! Soy Kevin Gonzalez, un estudiante de Ingeniería de Sistemas en el cuarto semestre. Me apasiona el desarrollo de software y la resolución de problemas a través de la programación. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes tecnologías y lenguajes.</p>
+<p>¡Hola! Soy Kevin Gonzalez, un estudiante de Ingeniería de Sistemas. Me apasiona el desarrollo de software y la resolución de problemas a través de la programación. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes tecnologías y lenguajes.</p>
 
 <p>¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y contribuciones. No dudes en explorar los repositorios y ponerse en contacto conmigo si tienes alguna pregunta o propuesta. ¡Hagamos cosas geniales juntos! 😄</p>
 
