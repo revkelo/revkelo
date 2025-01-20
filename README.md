@@ -32,28 +32,42 @@
 <h3>CEA</h3>
 <p><a href="https://github.com/revkelo/CEA" target="_blank">Repositorio</a></p>
 <p>Sistema de gestión para una escuela de conducción, que permite asignar clases y exámenes, y gestionar la disponibilidad de los estudiantes. <strong>Lenguaje: Java</strong></p>
+<img src="img/cea.png">
+<img src="img/cea2.png">
+
 
 <h3>ClipMagico</h3>
 <p><a href="https://github.com/revkelo/ClipMagico" target="_blank">Repositorio</a></p>
 <p>Sistema de gestión para una papelería, que controla cuentas, inventarios, clientes y proveedores, con seguimiento de ingresos y gastos. <strong>Lenguaje: Java</strong></p>
+<img src="img/ClipMagico.png">
+<img src="img/ClipMagico2.png">
 
 <h3>ACCIONES CORP</h3>
 <p><a href="https://github.com/revkelo/Acciones-Frontend" target="_blank">Repositorio</a></p>
 <p>Sistema de corretaje para la compra y venta de acciones, con gestión de portafolios y transacciones en tiempo real. <strong>Lenguaje: Java</strong></p>
+<img src="https://github.com/revkelo/Acciones-Frontend/blob/main/img/1.PNG">
+<img src="https://github.com/revkelo/Acciones-Frontend/blob/main/img/2.PNG">
 
 <h3>Aspirantes Universidad El Bosque</h3>
 <p><a href="https://github.com/revkelo/Aspirantes-UEB-Proyecto" target="_blank">Repositorio</a></p>
 <p>Sistema de inscripción para aspirantes a la Universidad El Bosque, gestionando registros y seguimientos administrativos. <strong>Lenguaje: Java</strong></p>
+<img src="img/UEB.png">
+
 
 <h3>Bostinder</h3>
 <p><a href="https://github.com/revkelo/Bostinder" target="_blank">Repositorio</a></p>
 <p>Proyecto en Java similar a Tinder, donde los usuarios pueden crear perfiles, buscar otros y establecer conexiones según preferencias. <strong>Lenguaje: Java</strong></p>
-
+<img src="img/bostinder.png">
+<img src="img/bos2.png">
+<img src="img/bos3.png">
 
 
 <h3>Distribuciones-AGD</h3>
 <p><a href="https://github.com/revkelo/Distribuciones-AGD" target="_blank">Repositorio</a></p>
 <p><a href="https://revkelo.github.io/Distribuciones-AGD/" target="_blank">Página Web Distribuciones AGD</a></p>
+
+<img src="img/AGD.png">
+
 <h3>Administrativo-Servidor</h3>
 
 
@@ -61,8 +75,10 @@
 <p><a href="https://github.com/revkelo/IPV4-CALCULATOR" target="_blank">Repositorio</a></p>
 <p><a href="https://revkelo.github.io/IPV4-CALCULATOR/" target="_blank">Página IPV4</a></p>
 
+<img src="img/IPV4.png">
 <h3>CaballoComplejidad</h3>
 <p><a href="https://github.com/revkelo/Distribuciones-AGD" target="_blank">Repositorio</a></p>
+<img src="img/caballo.png">
 
 <h2>Contacto</h2>
 
