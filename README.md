@@ -1,4 +1,8 @@
 <body>
+<p align="center">
+    <img src="img/Kevin.gif" width="1200" height="500" />
+</p>
+
 
 <p>¡Hola! Soy Kevin Gonzalez, un estudiante de Ingeniería de Sistemas. Me apasiona el desarrollo de software y la resolución de problemas a través de la programación. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes tecnologías y lenguajes.</p>
 
