@@ -30,18 +30,23 @@
 
 
 <h3>CEA</h3>
+<p><a href="https://github.com/revkelo/CEA" target="_blank">Repositorio</a></p>
 <p>Sistema de gestión para una escuela de conducción, que permite asignar clases y exámenes, y gestionar la disponibilidad de los estudiantes. <strong>Lenguaje: Java</strong></p>
 
 <h3>ClipMagico</h3>
+<p><a href="https://github.com/revkelo/ClipMagico" target="_blank">Repositorio</a></p>
 <p>Sistema de gestión para una papelería, que controla cuentas, inventarios, clientes y proveedores, con seguimiento de ingresos y gastos. <strong>Lenguaje: Java</strong></p>
 
 <h3>ACCIONES CORP</h3>
+<p><a href="https://github.com/revkelo/Acciones-Frontend" target="_blank">Repositorio</a></p>
 <p>Sistema de corretaje para la compra y venta de acciones, con gestión de portafolios y transacciones en tiempo real. <strong>Lenguaje: Java</strong></p>
 
 <h3>Aspirantes Universidad El Bosque</h3>
+<p><a href="https://github.com/revkelo/Aspirantes-UEB-Proyecto" target="_blank">Repositorio</a></p>
 <p>Sistema de inscripción para aspirantes a la Universidad El Bosque, gestionando registros y seguimientos administrativos. <strong>Lenguaje: Java</strong></p>
 
 <h3>Bostinder</h3>
+<p><a href="https://github.com/revkelo/Bostinder" target="_blank">Repositorio</a></p>
 <p>Proyecto en Java similar a Tinder, donde los usuarios pueden crear perfiles, buscar otros y establecer conexiones según preferencias. <strong>Lenguaje: Java</strong></p>
 
 
@@ -53,8 +58,10 @@
 
 
 <h3>IPV4 CALCULATOR</h3>
+<p><a href="https://github.com/revkelo/IPV4-CALCULATOR" target="_blank">Repositorio</a></p>
 
 <h3>CaballoComplejidad</h3>
+<p><a href="https://github.com/revkelo/Distribuciones-AGD" target="_blank">Repositorio</a></p>
 
 <h2>Contacto</h2>
 
