@@ -11,7 +11,7 @@
 <h2>Sobre mí</h2>
 
 <ul>
-    <li>📚 Actualmente estoy cursando el cuarto semestre de mi carrera de Ingeniería de Sistemas.</li>
+    <li>📚 Actualmente estoy cursando el octavo semestre de mi carrera de Ingeniería de Sistemas.</li>
     <li>💻 Me especializo en el desarrollo de aplicaciones utilizando Java y tecnologías relacionadas.</li>
     <li>⚙️ Algunas de las tecnologías y frameworks que manejo son Spring Boot, JSF, JSP y Bootstrap.</li>
     <li>🌱 Estoy siempre aprendiendo y mejorando mis habilidades de programación.</li>
