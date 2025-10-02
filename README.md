@@ -30,7 +30,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>
 </div>
 
-<h2>Proyectos- Actualizados 2024</h2>
+<h2>Proyectos - Actualizados 2024</h2>
 
 <h3>CEA</h3>
 <p><a href="https://github.com/revkelo/CEA" target="_blank">Repositorio</a></p>
