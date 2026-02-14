@@ -1,6 +1,6 @@
 <body>
 <p align="center">
-    <img src="img/Kevin.gif" width="1200" />
+    <img src="img/Banner.png" width="1200" />
 </p>
 
 
