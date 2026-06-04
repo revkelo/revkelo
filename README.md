@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=F87171&center=true&vCenter=true&width=620&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Full-Stack+Developer+%F0%9F%9A%80;Data+Governance+%7C+DAMA-DMBOK+%F0%9F%93%8A;Flutter+%2B+React+%2B+FastAPI+%2B+AWS;Building+with+AI+%F0%9F%A4%96;Ingeniero+de+Sistemas+%7C+UEB+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Full-Stack+Developer+%F0%9F%9A%80;Data+Governance+%7C+DAMA-DMBOK+%F0%9F%93%8A;Flutter+%2B+React+%2B+FastAPI+%2B+AWS;Building+with+AI+%F0%9F%A4%96;Ingeniero+de+Sistemas+%7C+UEB+2026" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -57,12 +57,12 @@ kevin = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revkelo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revkelo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=revkelo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=21600" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revkelo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&cache_seconds=21600" height="175" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=revkelo&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com/?user=revkelo&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=21600" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ kevin = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=revkelo&theme=tokyonight&no-frame=true&row=1&column=7&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=revkelo&theme=tokyonight&no-frame=true&row=1&column=6&no-bg=true&margin-w=10" />
 </p>
 
 ---
