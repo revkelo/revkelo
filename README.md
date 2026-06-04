@@ -75,6 +75,16 @@ App móvil + backend web para **finanzas personales con IA** — análisis de ga
 
 ---
 
+#### 🔒 SOM 3D — [3Dvinci Studios](https://3dvincistudios.com) *(privado)*
+Plataforma 3D interactiva desarrollada para **3Dvinci Studios** — empresa especializada en Apps, Videojuegos, Realidad Aumentada, Realidad Virtual y Recorridos Virtuales. *Proyecto de grado — Nominado a Mención Meritoria.*
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![AR/VR](https://img.shields.io/badge/AR%2FVR-Inmersivo-8B5CF6?style=flat-square)
+![3Dvinci Studios](https://img.shields.io/badge/3Dvinci%20Studios-3dvincistudios.com-0EA5E9?style=flat-square)
+
+---
+
 #### [FocusZone](https://github.com/revkelo/FocusZone) — Bienestar digital UEB
 Plataforma de productividad: Pomodoro, retos semanales, asistente IA (Lumi), push notifications y leaderboard. *Proyecto de grado.*
 
