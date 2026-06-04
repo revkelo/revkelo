@@ -1,146 +1,143 @@
 <p align="center">
-  <img src="img/Banner.png" width="1200" />
+  <img src="img/Banner.png" width="100%" />
 </p>
 
-<h2>Kevin Gonzalez</h2>
-
-<p>
-  <strong>Cloud & DevOps Engineer · Data Governance · Full-Stack Developer</strong><br/>
-  Bogotá, Colombia · <a href="mailto:kgagudelo@gmail.com">kgagudelo@gmail.com</a> · <a href="https://linkedin.com/in/kagonzalezdev">LinkedIn</a>
-</p>
-
-<p>Ingeniero de Sistemas (UEB, 2026) con experiencia en arquitectura cloud, gobierno de datos y desarrollo full-stack. Construyo desde aplicaciones web y móviles con IA hasta sistemas de producción con pagos, pipelines de datos y arquitectura serverless en AWS.</p>
-
-<h3>Stack</h3>
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
-</div>
-
-<br/>
-
-<table>
-  <tr>
-    <td><strong>Data & Gov</strong></td>
-    <td>DAMA-DMBOK · Great Expectations · Databricks · Power BI · PySpark · Metadatos · Linaje</td>
-  </tr>
-  <tr>
-    <td><strong>Cloud & DevOps</strong></td>
-    <td>AWS (Lambda, EC2, S3, RDS) · Azure · Docker · Kubernetes · Terraform · GitHub Actions · CI/CD</td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>Python · FastAPI · Java · Spring Boot · Node.js · REST · JWT</td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>TypeScript · React · Flutter/Dart · JavaScript · Three.js · HTML/CSS</td>
-  </tr>
-  <tr>
-    <td><strong>AI / LLMs</strong></td>
-    <td>LangChain · LlamaIndex · RAG · OpenAI · Anthropic · Prompt Engineering</td>
-  </tr>
-  <tr>
-    <td><strong>Bases de datos</strong></td>
-    <td>MySQL · PostgreSQL · Oracle · MariaDB · DynamoDB · Supabase</td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-<h2>Proyectos</h2>
-
-<h3>🔒 MonetIQ — App de finanzas personales con IA <em>(próximamente)</em></h3>
-<p>App móvil Flutter + backend Next.js con IA integrada para gestión de finanzas personales. WhatsApp webhook, Supabase, análisis inteligente de gastos. <strong>Flutter · Dart · Next.js · Supabase · TypeScript · IA</strong></p>
-
----
-
-<h3>FocusZone — Plataforma de bienestar digital</h3>
-<p>
-  <a href="https://github.com/revkelo/FocusZone">Repositorio</a>
-</p>
-<p>App web de productividad para estudiantes UEB — Pomodoro, retos semanales, IA (Lumi), push notifications y leaderboard. Proyecto de grado con Catalina Barrera. <strong>TypeScript · React 19 · Supabase · Vite · Vercel</strong></p>
-
----
-
-<h3>AsisVoz — Transcripción de audio/video con IA</h3>
-<p>
-  <a href="https://github.com/revkelo/AsisVoz">Repositorio</a>
-</p>
-<p>App de escritorio para transcribir audio y video con Deepgram, exportar a PDF/DOCX con timestamps y diarización de hablantes. Módulo QA para hacer preguntas al documento con DeepSeek. <strong>Python · Deepgram · OpenRouter · CustomTkinter · PyInstaller</strong></p>
-
----
-
-<h3>Migracion365 — Google Drive a OneDrive</h3>
-<p>
-  <a href="https://github.com/revkelo/Migracion365">Repositorio</a>
-</p>
-<p>Herramienta de escritorio para que profesores y estudiantes de la UEB migren su contenido de Google Drive a Microsoft OneDrive, preservando estructura de carpetas y convirtiendo formatos Google Workspace. <strong>Python · Google Drive API · Microsoft MSAL · CustomTkinter</strong></p>
-
----
-
-<h3>KanbanAPP — Tablero Kanban multiplataforma</h3>
-<p>
-  <a href="https://github.com/revkelo/Kanban-Flutter">Repositorio</a>
-</p>
-<p>App Kanban offline-first con drag & drop, modo oscuro/claro, notificaciones y APK de release incluido. Sin cuenta, sin backend. <strong>Flutter · Dart · Android · iOS · Web · Desktop</strong></p>
-
----
-
-<h3>CEA-Serverless — Sistema académico en AWS</h3>
-<p>
-  <a href="https://github.com/revkelo/CEA-Serverless">Repositorio</a>
-</p>
-<p>Sistema de gestión para el CEA Instituto de Movilidad (escuela de conducción) en arquitectura serverless AWS. <strong>Python · AWS Lambda · API Gateway · DynamoDB · S3 · SAM</strong></p>
-
----
-
-<h3>ClipMagico — Sistema POS</h3>
-<p>
-  <a href="https://github.com/revkelo/ClipMagico">Repositorio</a>
-</p>
-<p>Punto de venta con panel de administrador y vendedor — clientes, productos, proveedores, ventas y facturas conectado a MySQL. <strong>Java · Jakarta Servlet · MySQL · Bootstrap</strong></p>
 <p align="center">
-  <img src="img/ClipMagico.png" width="800" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=F87171&center=true&vCenter=true&width=620&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Full-Stack+Developer+%F0%9F%9A%80;Data+Governance+%7C+DAMA-DMBOK+%F0%9F%93%8A;Flutter+%2B+React+%2B+FastAPI+%2B+AWS;Building+with+AI+%F0%9F%A4%96;Ingeniero+de+Sistemas+%7C+UEB+2026" alt="Typing SVG" />
 </p>
 
----
-
-<h3>Distribuciones AGD — Sitio web corporativo</h3>
-<p>
-  <a href="https://github.com/revkelo/Distribuciones-AGD">Repositorio</a>
-</p>
-<p>Página web para ferretería y tienda de pinturas colombiana con catálogo, botón WhatsApp Business y diseño responsive. <strong>HTML · CSS · JavaScript · Bootstrap · Owl Carousel</strong></p>
 <p align="center">
-  <img src="img/AGD.png" width="800" />
+  <a href="https://linkedin.com/in/kagonzalezdev">
+    <img src="https://img.shields.io/badge/LinkedIn-kagonzalezdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kgagudelo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kgagudelo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Bogotá-Colombia-FFCD00?style=for-the-badge&logo=google-maps&logoColor=black" />
+  <img src="https://komarev.com/ghpvc/?username=revkelo&style=for-the-badge&color=blueviolet&label=VISITAS" />
 </p>
 
 ---
 
-<h3>Serpientes y Escaleras</h3>
-<p>
-  <a href="https://github.com/revkelo/serpientes-y-escaleras">Repositorio</a>
-</p>
-<p>Primer proyecto personal completo — juego de escritorio con 3 tableros, 4 jugadores, fichas personalizadas, fondos animados y tutorial integrado. <strong>Java · Swing · MVC</strong></p>
+### 👋 Sobre mí
+
+Ingeniero de Sistemas (UEB, 2026) apasionado por construir desde **apps móviles con IA** hasta **pipelines de datos a escala empresarial** y **arquitecturas serverless en AWS**. Me muevo cómodo entre el código y la infraestructura cloud.
+
+```python
+kevin = {
+    "rol":      ["Cloud & DevOps", "Data Governance", "Full-Stack Dev"],
+    "stack":    ["Python", "FastAPI", "Java", "TypeScript", "Flutter", "AWS"],
+    "data":     ["DAMA-DMBOK", "Great Expectations", "Databricks", "Power BI"],
+    "AI":       ["LangChain", "RAG", "OpenAI", "Anthropic", "LlamaIndex"],
+    "location": "Bogotá 🇨🇴",
+    "wip":      "MonetIQ — finanzas personales con IA 🚀"
+}
+```
+
+---
+
+### 🛠️ Tech Stack
+
 <p align="center">
-  <img src="img/eys.png" width="800" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,ts,react,flutter,js,dart&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,kubernetes,terraform,githubactions,git,github,vscode&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,sqlite,mongodb,redis,html,css,bootstrap&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DAMA--DMBOK-Data%20Governance-4B0082?style=flat-square" />
+  <img src="https://img.shields.io/badge/Great%20Expectations-Data%20Quality-FF6F00?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-PySpark-E87722?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-RAG%20%7C%20LLMs-1C3C3C?style=flat-square" />
 </p>
 
 ---
 
-<h2>Contacto</h2>
+### 📊 GitHub Stats
 
-<p>📧 <a href="mailto:kgagudelo@gmail.com">kgagudelo@gmail.com</a></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=revkelo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revkelo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" height="175" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=revkelo&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=revkelo&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=revkelo&theme=tokyonight&no-frame=true&row=1&column=7&no-bg=true" />
+</p>
+
+---
+
+### 🚀 Proyectos
+
+#### 🔒 MonetIQ *(próximamente)*
+App móvil + backend web para **finanzas personales con IA** — análisis de gastos, WhatsApp webhook, recomendaciones inteligentes.
+`Flutter` `Dart` `Next.js` `Supabase` `TypeScript` `AI`
+
+---
+
+#### [FocusZone](https://github.com/revkelo/FocusZone) — Bienestar digital UEB
+Plataforma de productividad: Pomodoro, retos semanales, asistente IA (Lumi), push notifications y leaderboard. *Proyecto de grado.*
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
+
+---
+
+#### [AsisVoz](https://github.com/revkelo/AsisVoz) — Transcripción con IA
+App de escritorio: transcribe audio/video con Deepgram, exporta PDF/DOCX con diarización. Módulo Q&A con DeepSeek.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Deepgram-STT-13EF93?style=flat-square)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-LLM-FF6B6B?style=flat-square)
+
+---
+
+#### [Migracion365](https://github.com/revkelo/Migracion365) — Google Drive → OneDrive
+Herramienta para migrar toda la UEB de Google Drive a Microsoft 365, preservando permisos y estructura.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive%20API-4285F4?style=flat-square&logo=googledrive&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft%20MSAL-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+---
+
+#### [CEA-Serverless](https://github.com/revkelo/CEA-Serverless) — AWS Serverless
+Sistema de gestión para escuela de conducción en arquitectura serverless AWS.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+
+---
+
+#### [Kanban-Flutter](https://github.com/revkelo/Kanban-Flutter) — Kanban multiplataforma
+Tablero Kanban offline-first con drag & drop, modo oscuro/claro y APK de release incluido.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+---
+
+#### [sap-data-quality-greatexpectations](https://github.com/revkelo/sap-data-quality-greatexpectations) — Data Quality en SAP
+Pipeline de calidad de datos para dominios SAP (Clientes/Proveedores) con Great Expectations en Databricks + PySpark.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-E87722?style=flat-square&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+---
+
+<p align="center">
+  <em>⭐ Si algún proyecto te fue útil, considera darle una estrella</em>
+</p>
