@@ -9,9 +9,7 @@
   Bogotá, Colombia · <a href="mailto:kgagudelo@gmail.com">kgagudelo@gmail.com</a> · <a href="https://linkedin.com/in/kagonzalezdev">LinkedIn</a>
 </p>
 
-<p>Ingeniero de Sistemas (UEB, 2026) con experiencia en arquitectura cloud, gobierno de datos y desarrollo full-stack. Actualmente en <strong>Corona</strong> implementando políticas de calidad de datos con Great Expectations + Databricks bajo el marco <strong>DAMA-DMBOK</strong>.</p>
-
-<p>Proyecto de grado con mención <strong>Meritoria</strong>: pipeline web para convertir estudios DICOM en modelos médicos 3D, desplegado en AWS (EC2, S3, RDS) con FastAPI, Docker y disponibilidad 99.9%.</p>
+<p>Ingeniero de Sistemas (UEB, 2026) con experiencia en arquitectura cloud, gobierno de datos y desarrollo full-stack. Construyo desde aplicaciones web y móviles con IA hasta sistemas de producción con pagos, pipelines de datos y arquitectura serverless en AWS.</p>
 
 <h3>Stack</h3>
 
