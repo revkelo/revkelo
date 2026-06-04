@@ -2,28 +2,62 @@
   <img src="img/Banner.png" width="1200" />
 </p>
 
-<h2>Kevin Gonzalez — Desarrollador de Software</h2>
+<h2>Kevin Gonzalez</h2>
 
-<p>Ingeniero de Sistemas de la Universidad El Bosque (Bogotá, Colombia). Construyo aplicaciones web, móviles y de escritorio — desde herramientas internas con IA hasta sistemas de producción con pagos y arquitectura cloud.</p>
+<p>
+  <strong>Cloud & DevOps Engineer · Data Governance · Full-Stack Developer</strong><br/>
+  Bogotá, Colombia · <a href="mailto:kgagudelo@gmail.com">kgagudelo@gmail.com</a> · <a href="https://linkedin.com/in/kagonzalezdev">LinkedIn</a>
+</p>
 
-<p>Actualmente trabajando en <strong>MonetIQ</strong> (app Flutter de finanzas personales con IA) y <strong>FlujoGuIA</strong> (asistente financiero con IA).</p>
+<p>Ingeniero de Sistemas (UEB, 2026) con experiencia en arquitectura cloud, gobierno de datos y desarrollo full-stack. Actualmente en <strong>Corona</strong> implementando políticas de calidad de datos con Great Expectations + Databricks bajo el marco <strong>DAMA-DMBOK</strong>.</p>
 
-<h3>Lenguajes y herramientas</h3>
+<p>Proyecto de grado con mención <strong>Meritoria</strong>: pipeline web para convertir estudios DICOM en modelos médicos 3D, desplegado en AWS (EC2, S3, RDS) con FastAPI, Docker y disponibilidad 99.9%.</p>
+
+<h3>Stack</h3>
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
 </div>
+
+<br/>
+
+<table>
+  <tr>
+    <td><strong>Data & Gov</strong></td>
+    <td>DAMA-DMBOK · Great Expectations · Databricks · Power BI · PySpark · Metadatos · Linaje</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & DevOps</strong></td>
+    <td>AWS (Lambda, EC2, S3, RDS) · Azure · Docker · Kubernetes · Terraform · GitHub Actions · CI/CD</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Python · FastAPI · Java · Spring Boot · Node.js · REST · JWT</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>TypeScript · React · Flutter/Dart · JavaScript · Three.js · HTML/CSS</td>
+  </tr>
+  <tr>
+    <td><strong>AI / LLMs</strong></td>
+    <td>LangChain · LlamaIndex · RAG · OpenAI · Anthropic · Prompt Engineering</td>
+  </tr>
+  <tr>
+    <td><strong>Bases de datos</strong></td>
+    <td>MySQL · PostgreSQL · Oracle · MariaDB · DynamoDB · Supabase</td>
+  </tr>
+</table>
 
 <br/>
 
