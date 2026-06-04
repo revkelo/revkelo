@@ -62,7 +62,7 @@ kevin = {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=revkelo&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=21600" />
+  <img src="https://streak-stats.demolab.com/?user=revkelo&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ kevin = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=revkelo&theme=tokyonight&no-frame=true&row=1&column=6&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=revkelo&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 </p>
 
 ---
