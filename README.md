@@ -62,7 +62,7 @@ kevin = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=revkelo&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="https://ghchart.rshah.org/2f81f7/revkelo" width="95%" />
 </p>
 
 ---
