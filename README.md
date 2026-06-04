@@ -21,16 +21,20 @@
 
 ### 👋 Sobre mí
 
-Ingeniero de Sistemas (UEB, 2026) apasionado por construir desde **apps móviles con IA** hasta **pipelines de datos a escala empresarial** y **arquitecturas serverless en AWS**. Me muevo cómodo entre el código y la infraestructura cloud.
+Ingeniero de Sistemas (UEB, 2026 — *Mención Meritoria*) con experiencia práctica en **desarrollo full-stack**, **arquitecturas cloud en AWS**, **gobernanza de datos** e **integración de IA**. He liderado proyectos que van desde pipelines de calidad de datos con DAMA-DMBOK y Great Expectations en entornos Databricks/PySpark, hasta migraciones empresariales a Microsoft 365, apps móviles multiplataforma y sistemas serverless en producción.
+
+Mi proyección está orientada hacia **Cloud Infrastructure & DevOps** — diseño de arquitecturas escalables, IaC con Terraform, orquestación con Kubernetes y pipelines CI/CD en AWS. Me interesa especialmente la intersección entre infraestructura cloud y plataformas de datos, donde la ingeniería de plataforma habilita decisiones en tiempo real.
 
 ```python
 kevin = {
-    "rol":      ["Cloud & DevOps", "Data Governance", "Full-Stack Dev"],
-    "stack":    ["Python", "FastAPI", "Java", "TypeScript", "Flutter", "AWS"],
-    "data":     ["DAMA-DMBOK", "Great Expectations", "Databricks", "Power BI"],
-    "AI":       ["LangChain", "RAG", "OpenAI", "Anthropic", "LlamaIndex"],
-    "location": "Bogotá 🇨🇴",
-    "wip":      "MonetIQ — finanzas personales con IA 🚀"
+    "experiencia": ["Full-Stack Dev", "Cloud & DevOps", "Data Governance", "AR/VR"],
+    "proyeccion":  ["Cloud Infrastructure", "Platform Engineering", "MLOps"],
+    "stack":       ["Python", "FastAPI", "Java", "TypeScript", "Flutter", "AWS"],
+    "cloud":       ["AWS Lambda", "DynamoDB", "S3", "Terraform", "Docker", "K8s"],
+    "data":        ["DAMA-DMBOK", "Great Expectations", "Databricks", "PySpark", "Power BI"],
+    "AI":          ["LangChain", "RAG", "OpenAI", "Anthropic", "LlamaIndex"],
+    "location":    "Bogotá 🇨🇴",
+    "wip":         "MonetIQ — finanzas personales con IA 🚀"
 }
 ```
 
