@@ -44,7 +44,7 @@ kevin = {
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,ts,react,flutter,js,dart&perline=9" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,aws,azure,kubernetes,terraform,githubactions,git,github,vscode&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=linux,docker,aws,azure,kubernetes,terraform,githubactions,git,github&perline=9" /><br/>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,sqlite,mongodb,redis,html,css,bootstrap&perline=9" />
 </p>
 
