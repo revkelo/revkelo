@@ -103,25 +103,6 @@
 
 ---
 
-<h3>iTEP B1 Simulator</h3>
-<p>
-  <a href="https://github.com/revkelo/itep-b1-simulator">Repositorio</a>
-</p>
-<p>Simulador del examen iTEP B1 con las 5 secciones reales (Grammar, Listening, Reading, Writing, Speaking), timers, autosave y reporte de nivel CEFR. <strong>Vite · JavaScript vanilla · Web Speech API</strong></p>
-
----
-
-<h3>Andina Trading — Bolsa de Valores</h3>
-<p>
-  <a href="https://github.com/revkelo/Bolsa-De-Valores-FrontEnd">Repositorio</a>
-</p>
-<p>Sistema de gestión bursátil para Ecuador, Perú, Venezuela y Colombia — portal del inversionista, comisionistas, compra/venta de acciones y reportes. <strong>HTML · CSS · JavaScript · Chart.js · Spring Boot</strong></p>
-<p align="center">
-  <img src="img/andina.png" width="800" />
-</p>
-
----
-
 <h3>ClipMagico — Sistema POS</h3>
 <p>
   <a href="https://github.com/revkelo/ClipMagico">Repositorio</a>
@@ -129,17 +110,6 @@
 <p>Punto de venta con panel de administrador y vendedor — clientes, productos, proveedores, ventas y facturas conectado a MySQL. <strong>Java · Jakarta Servlet · MySQL · Bootstrap</strong></p>
 <p align="center">
   <img src="img/ClipMagico.png" width="800" />
-</p>
-
----
-
-<h3>Bostinder — App estilo Tinder en Java</h3>
-<p>
-  <a href="https://github.com/revkelo/Bostinder">Repositorio</a>
-</p>
-<p>App de escritorio Swing con sistema de likes, matches, envío de emails de bienvenida, generación de PDFs y gráficas estadísticas. <strong>Java · Swing · JavaMail · iTextPDF · JFreeChart</strong></p>
-<p align="center">
-  <img src="img/bostinder.png" width="800" />
 </p>
 
 ---
@@ -155,17 +125,6 @@
 
 ---
 
-<h3>knight-tour-solver — Recorrido del caballo</h3>
-<p>
-  <a href="https://github.com/revkelo/knight-tour-solver">Repositorio</a>
-</p>
-<p>Implementación del problema del recorrido del caballo en ajedrez usando BFS con heurística euclidiana, visualizado paso a paso en Swing. <strong>Java · Swing · MVC · BFS</strong></p>
-<p align="center">
-  <img src="img/caballo.png" width="800" />
-</p>
-
----
-
 <h3>Serpientes y Escaleras</h3>
 <p>
   <a href="https://github.com/revkelo/serpientes-y-escaleras">Repositorio</a>
@@ -173,18 +132,6 @@
 <p>Primer proyecto personal completo — juego de escritorio con 3 tableros, 4 jugadores, fichas personalizadas, fondos animados y tutorial integrado. <strong>Java · Swing · MVC</strong></p>
 <p align="center">
   <img src="img/eys.png" width="800" />
-</p>
-
----
-
-<h3>IPv4 Calculator</h3>
-<p>
-  <a href="https://github.com/revkelo/ipv4-calculator">Repositorio</a> ·
-  <a href="https://revkelo.github.io/ipv4-calculator/">Demo</a>
-</p>
-<p>Calculadora de subredes IPv4 en el navegador — sin backend ni APIs externas, todo en JavaScript puro. Máscara, broadcast, rango usable, binario resaltado y clase de IP. <strong>HTML · CSS · JavaScript</strong></p>
-<p align="center">
-  <img src="img/IPV4.png" width="800" />
 </p>
 
 ---
