@@ -69,25 +69,19 @@ kevin = {
   <img src="https://streak-stats.demolab.com/?user=revkelo&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=revkelo&theme=tokyo-night&hide_border=true&area=true&custom_title=Actividad%20de%20los%20últimos%2031%20días" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=revkelo&theme=tokyonight&no-frame=true&row=1&column=7&no-bg=true&margin-w=4" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revkelo&theme=tokyonight" width="95%" />
-</p>
-
 ---
 
 ### 🚀 Proyectos
 
 #### 🔒 MonetIQ *(próximamente)*
 App móvil + backend web para **finanzas personales con IA** — análisis de gastos, WhatsApp webhook, recomendaciones inteligentes.
-`Flutter` `Dart` `Next.js` `Supabase` `TypeScript` `AI`
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-AI-1A1A2E?style=flat-square)
 
 ---
 
