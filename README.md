@@ -21,7 +21,9 @@
 
 ### 👋 Sobre mí
 
-Ingeniero de Sistemas (UEB, 2026) con experiencia práctica en **desarrollo full-stack**, **arquitecturas cloud en AWS**, **gobernanza de datos** e **integración de IA**. He liderado proyectos que van desde pipelines de calidad de datos con DAMA-DMBOK y Great Expectations en entornos Databricks/PySpark, hasta migraciones empresariales a Microsoft 365, apps móviles multiplataforma y sistemas serverless en producción.
+Ingeniero de Sistemas (UEB, 2026 — Nominado a Mención Meritoria) con experiencia práctica en **desarrollo full-stack**, **arquitecturas cloud en AWS**, **gobernanza de datos** e **integración de IA**. He liderado proyectos que van desde pipelines de calidad de datos con DAMA-DMBOK y Great Expectations en entornos Databricks/PySpark, hasta migraciones empresariales a Microsoft 365, apps móviles multiplataforma y sistemas serverless en producción.
+
+Mi proyección está orientada hacia **Cloud Infrastructure & DevOps** — diseño de arquitecturas escalables, IaC con Terraform, orquestación con Kubernetes y pipelines CI/CD en AWS. Me interesa especialmente la intersección entre infraestructura cloud y plataformas de datos, donde la ingeniería de plataforma habilita decisiones en tiempo real.
 
 ```python
 kevin = {
