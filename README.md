@@ -63,6 +63,11 @@
 
 <h2>Proyectos</h2>
 
+<h3>🔒 MonetIQ — App de finanzas personales con IA <em>(próximamente)</em></h3>
+<p>App móvil Flutter + backend Next.js con IA integrada para gestión de finanzas personales. WhatsApp webhook, Supabase, análisis inteligente de gastos. <strong>Flutter · Dart · Next.js · Supabase · TypeScript · IA</strong></p>
+
+---
+
 <h3>FocusZone — Plataforma de bienestar digital</h3>
 <p>
   <a href="https://github.com/revkelo/FocusZone">Repositorio</a>
