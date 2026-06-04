@@ -66,7 +66,19 @@ kevin = {
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2f81f7/revkelo" width="95%" />
+  <img src="https://streak-stats.demolab.com/?user=revkelo&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=revkelo&theme=tokyo-night&hide_border=true&area=true&custom_title=Actividad%20de%20los%20últimos%2031%20días" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=revkelo&theme=tokyonight&no-frame=true&row=1&column=7&no-bg=true&margin-w=4" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revkelo&theme=tokyonight" width="95%" />
 </p>
 
 ---
