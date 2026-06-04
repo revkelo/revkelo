@@ -80,12 +80,14 @@ App móvil + backend web para **finanzas personales con IA** — análisis de ga
 ---
 
 #### 🔒 SOM 3D — [3Dvinci Studios](https://3dvincistudios.com) *(privado)*
-Plataforma 3D interactiva desarrollada para **3Dvinci Studios** — empresa especializada en Apps, Videojuegos, Realidad Aumentada, Realidad Virtual y Recorridos Virtuales. *Proyecto de grado — Nominado a Mención Meritoria.*
+Pipeline web para convertir estudios **DICOM en modelos médicos 3D** — segmentación automática con TotalSegmentator, reconstrucción de mallas STL, visualización interactiva en navegador con Three.js y gestión de hospitales, médicos y pacientes con pagos integrados (ePayco). Desplegado en AWS con disponibilidad 99.9%. *Proyecto de grado — Nominado a Mención Meritoria.*
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![AR/VR](https://img.shields.io/badge/AR%2FVR-Inmersivo-8B5CF6?style=flat-square)
-![3Dvinci Studios](https://img.shields.io/badge/3Dvinci%20Studios-3dvincistudios.com-0EA5E9?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20EC2%2FS3%2FRDS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
