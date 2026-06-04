@@ -80,7 +80,7 @@ App móvil + backend web para **finanzas personales con IA** — análisis de ga
 ---
 
 #### 🔒 SOM 3D — [3Dvinci Studios](https://3dvincistudios.com) *(privado)*
-Pipeline web para convertir estudios **DICOM en modelos médicos 3D** — segmentación automática con TotalSegmentator, reconstrucción de mallas STL, visualización interactiva en navegador con Three.js y gestión de hospitales, médicos y pacientes con pagos integrados (ePayco). Desplegado en AWS con disponibilidad 99.9%. *Proyecto de grado — Nominado a Mención Meritoria.*
+Pipeline web para convertir estudios **DICOM en modelos médicos 3D** — segmentación automática con TotalSegmentator, reconstrucción de mallas STL, visualización interactiva en navegador con Three.js y gestión de hospitales, médicos y pacientes con pagos integrados (ePayco). *Proyecto de grado — Nominado a Mención Meritoria.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
