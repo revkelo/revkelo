@@ -57,8 +57,8 @@ kevin = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revkelo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=21600" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revkelo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&cache_seconds=21600" height="175" />
+  <img src="https://github-readme-stats-eight-zeta-24.vercel.app/api?username=revkelo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=21600" height="175" />
+  <img src="https://github-readme-stats-eight-zeta-24.vercel.app/api/top-langs/?username=revkelo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&cache_seconds=21600" height="175" />
 </p>
 
 <p align="center">
