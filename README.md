@@ -69,10 +69,6 @@ kevin = {
   <img src="https://github-readme-stats-eight-zeta-24.vercel.app/api/top-langs/?username=revkelo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&cache_seconds=21600" height="175" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=revkelo&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600" />
-</p>
-
 ---
 
 ### 🚀 Proyectos
