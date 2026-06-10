@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Full-Stack+Developer+%F0%9F%9A%80;Data+Governance+%7C+DAMA-DMBOK+%F0%9F%93%8A;Flutter+%2B+React+%2B+FastAPI+%2B+AWS;Building+with+AI+%F0%9F%A4%96;Ingeniero+de+Sistemas+%7C+UEB+2026" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=620&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Full-Stack+Developer+%F0%9F%9A%80;Data+Governance+%7C+DAMA-DMBOK+%F0%9F%93%8A;Flutter+%2B+React+%2B+FastAPI+%2B+AWS;Building+with+AI+%F0%9F%A4%96;Ingeniero+de+Sistemas+%7C+UEB+2026" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Full-Stack+Developer+%F0%9F%9A%80;Data+Governance+%7C+DAMA-DMBOK+%F0%9F%93%8A;Flutter+%2B+React+%2B+FastAPI+%2B+AWS;Building+with+AI+%F0%9F%A4%96;Ingeniero+de+Sistemas+%7C+UEB+2026" alt="Typing SVG" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=F56F0D&center=true&vCenter=true&width=620&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Full-Stack+Developer+%F0%9F%9A%80;Data+Governance+%7C+DAMA-DMBOK+%F0%9F%93%8A;Flutter+%2B+React+%2B+FastAPI+%2B+AWS;Building+with+AI+%F0%9F%A4%96;Ingeniero+de+Sistemas+%7C+UEB+2026" alt="Typing SVG" />
 </p>
 
 <p align="center">
