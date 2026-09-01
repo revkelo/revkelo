@@ -1,0 +1,62 @@
+<svg width="400" height="196" viewBox="0 0 400 196" fill="none"
+     xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titulo">
+  <title id="titulo">Lenguajes más usados</title>
+  <style>
+    .titulo { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #f56f0d }
+    .clave  { font: 400 14px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9 }
+    .cifra  { font: 700 15px 'Segoe UI', Ubuntu, sans-serif; fill: #f0f6fc }
+    .tenue  { font: 400 11px 'Segoe UI', Ubuntu, sans-serif; fill: #7d8590 }
+    .rotulo { font: 600 10px 'Segoe UI', Ubuntu, sans-serif; fill: #7d8590; letter-spacing: 1.2px }
+    /* Entrada escalonada. Quien pida menos movimiento la ve ya puesta */
+    .fila { opacity: 0; animation: entrar .5s ease forwards }
+    @keyframes entrar { to { opacity: 1 } }
+    @media (prefers-reduced-motion: reduce) {
+      .fila { opacity: 1; animation: none }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="399" height="195" rx="10"
+        fill="#0d1117" stroke="#20262e" />
+  <text x="25" y="35" class="titulo">Lenguajes más usados</text>
+  <g><rect x="25.0" y="52" width="160.7" height="10" fill="#3572A5" /><rect x="185.7" y="52" width="55.3" height="10" fill="#3178c6" /><rect x="241.0" y="52" width="36.4" height="10" fill="#f1e05a" /><rect x="277.4" y="52" width="33.7" height="10" fill="#44a51c" /><rect x="311.1" y="52" width="18.1" height="10" fill="#00B4AB" /><rect x="329.2" y="52" width="12.9" height="10" fill="#e34c26" /><rect x="342.1" y="52" width="11.9" height="10" fill="#b07219" /><rect x="353.9" y="52" width="8.5" height="10" fill="#663399" /></g>
+  <g class="fila" style="animation-delay: 0ms">
+    <circle cx="30" cy="84" r="5" fill="#3572A5" />
+    <text x="43" y="88" class="clave">Python</text>
+    <text x="185" y="88" class="tenue" text-anchor="end">45.9%</text>
+  </g>
+  <g class="fila" style="animation-delay: 70ms">
+    <circle cx="215" cy="84" r="5" fill="#3178c6" />
+    <text x="228" y="88" class="clave">TypeScript</text>
+    <text x="370" y="88" class="tenue" text-anchor="end">15.8%</text>
+  </g>
+  <g class="fila" style="animation-delay: 140ms">
+    <circle cx="30" cy="108" r="5" fill="#f1e05a" />
+    <text x="43" y="112" class="clave">JavaScript</text>
+    <text x="185" y="112" class="tenue" text-anchor="end">10.4%</text>
+  </g>
+  <g class="fila" style="animation-delay: 210ms">
+    <circle cx="215" cy="108" r="5" fill="#44a51c" />
+    <text x="228" y="112" class="clave">QML</text>
+    <text x="370" y="112" class="tenue" text-anchor="end">9.6%</text>
+  </g>
+  <g class="fila" style="animation-delay: 280ms">
+    <circle cx="30" cy="132" r="5" fill="#00B4AB" />
+    <text x="43" y="136" class="clave">Dart</text>
+    <text x="185" y="136" class="tenue" text-anchor="end">5.2%</text>
+  </g>
+  <g class="fila" style="animation-delay: 350ms">
+    <circle cx="215" cy="132" r="5" fill="#e34c26" />
+    <text x="228" y="136" class="clave">HTML</text>
+    <text x="370" y="136" class="tenue" text-anchor="end">3.7%</text>
+  </g>
+  <g class="fila" style="animation-delay: 420ms">
+    <circle cx="30" cy="156" r="5" fill="#b07219" />
+    <text x="43" y="160" class="clave">Java</text>
+    <text x="185" y="160" class="tenue" text-anchor="end">3.4%</text>
+  </g>
+  <g class="fila" style="animation-delay: 490ms">
+    <circle cx="215" cy="156" r="5" fill="#663399" />
+    <text x="228" y="160" class="clave">CSS</text>
+    <text x="370" y="160" class="tenue" text-anchor="end">2.4%</text>
+  </g>
+  <text x="25" y="184" class="tenue">Por bytes de código en 43 repositorios propios</text>
+</svg>

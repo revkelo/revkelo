@@ -60,9 +60,18 @@ kevin = {
 
 ### 📊 GitHub Stats
 
+<!--
+  Estas dos tarjetas son archivos de este repositorio, no llamadas a un
+  servicio. Las genera `scripts/estadisticas.mjs` una vez al día desde una
+  Action, con el token que la propia Action trae. Antes venían de una
+  instancia de github-readme-stats que se quedaba sin cuota de la API de
+  GitHub y devolvía "Something went wrong": el perfil se veía roto y uno se
+  enteraba tarde. Sirviéndolas desde aquí no hay servicio que se caiga,
+  cuota que se agote ni token que caduque.
+-->
 <p align="center">
-  <img src="https://github-readme-stats-eight-zeta-24.vercel.app/api?username=revkelo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=21600" height="175" />
-  <img src="https://github-readme-stats-eight-zeta-24.vercel.app/api/top-langs/?username=revkelo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&cache_seconds=21600" height="175" />
+  <img src="img/stats.svg" alt="Actividad de revkelo en GitHub" height="270" />
+  <img src="img/langs.svg" alt="Lenguajes más usados por revkelo" height="270" />
 </p>
 
 ---

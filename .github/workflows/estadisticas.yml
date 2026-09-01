@@ -1,0 +1,54 @@
+name: Estadísticas del perfil
+
+# Una vez al día basta: las cifras de un perfil no cambian por minutos, y así
+# el historial no se llena de commits. `workflow_dispatch` queda para forzarlo
+# a mano desde la pestaña Actions cuando se quiera ver un cambio ya.
+on:
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/estadisticas.mjs'
+      - '.github/workflows/estadisticas.yml'
+
+# El workflow escribe en el repositorio, así que necesita permiso de escritura.
+# Solo eso: nada más toca.
+permissions:
+  contents: write
+
+concurrency:
+  group: estadisticas
+  cancel-in-progress: true
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Generar las tarjetas
+        env:
+          # El token que la propia Action trae. No hay que crear ni rotar nada,
+          # y la cuota es de la cuenta, no la compartida que agota el servicio
+          # público de github-readme-stats.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USUARIO_GITHUB: ${{ github.repository_owner }}
+        run: node scripts/estadisticas.mjs
+
+      - name: Publicar si cambiaron
+        run: |
+          if git diff --quiet -- img/stats.svg img/langs.svg; then
+            echo "Sin cambios en las cifras."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add img/stats.svg img/langs.svg
+          git commit -m "Estadísticas al día"
+          git push

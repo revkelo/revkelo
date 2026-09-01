@@ -1,0 +1,55 @@
+<svg width="400" height="342" viewBox="0 0 400 342" fill="none"
+     xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titulo">
+  <title id="titulo">Actividad de revkelo</title>
+  <style>
+    .titulo { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #f56f0d }
+    .clave  { font: 400 14px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9 }
+    .cifra  { font: 700 15px 'Segoe UI', Ubuntu, sans-serif; fill: #f0f6fc }
+    .tenue  { font: 400 11px 'Segoe UI', Ubuntu, sans-serif; fill: #7d8590 }
+    .rotulo { font: 600 10px 'Segoe UI', Ubuntu, sans-serif; fill: #7d8590; letter-spacing: 1.2px }
+    /* Entrada escalonada. Quien pida menos movimiento la ve ya puesta */
+    .fila { opacity: 0; animation: entrar .5s ease forwards }
+    @keyframes entrar { to { opacity: 1 } }
+    @media (prefers-reduced-motion: reduce) {
+      .fila { opacity: 1; animation: none }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="399" height="341" rx="10"
+        fill="#0d1117" stroke="#20262e" />
+  <text x="25" y="35" class="titulo">Actividad de revkelo</text>
+  
+  <text x="25" y="66" class="rotulo">ÚLTIMO AÑO</text>
+  <g class="fila" style="animation-delay: 0ms">
+    <text x="25" y="86" class="clave">Contribuciones</text>
+    <text x="375" y="86" class="cifra" text-anchor="end">545</text>
+  </g>
+  <g class="fila" style="animation-delay: 60ms">
+    <text x="25" y="112" class="clave">Commits</text>
+    <text x="375" y="112" class="cifra" text-anchor="end">508</text>
+  </g>
+  <g class="fila" style="animation-delay: 120ms">
+    <text x="25" y="138" class="clave">Pull requests</text>
+    <text x="375" y="138" class="cifra" text-anchor="end">21</text>
+  </g>
+  <g class="fila" style="animation-delay: 180ms">
+    <text x="25" y="164" class="clave">Issues</text>
+    <text x="375" y="164" class="cifra" text-anchor="end">1</text>
+  </g>
+  <text x="25" y="202" class="rotulo">EN TOTAL</text>
+  <g class="fila" style="animation-delay: 240ms">
+    <text x="25" y="222" class="clave">Repositorios propios</text>
+    <text x="375" y="222" class="cifra" text-anchor="end">43</text>
+  </g>
+  <g class="fila" style="animation-delay: 300ms">
+    <text x="25" y="248" class="clave">Pull requests fusionados</text>
+    <text x="375" y="248" class="cifra" text-anchor="end">133</text>
+  </g>
+  <g class="fila" style="animation-delay: 360ms">
+    <text x="25" y="274" class="clave">Estrellas recibidas</text>
+    <text x="375" y="274" class="cifra" text-anchor="end">4</text>
+  </g>
+  <g class="fila" style="animation-delay: 420ms">
+    <text x="25" y="300" class="clave">Seguidores</text>
+    <text x="375" y="300" class="cifra" text-anchor="end">2</text>
+  </g>
+</svg>
