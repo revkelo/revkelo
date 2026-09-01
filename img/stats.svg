@@ -38,11 +38,11 @@
   <text x="25" y="202" class="rotulo">EN TOTAL</text>
   <g class="fila" style="animation-delay: 240ms">
     <text x="25" y="222" class="clave">Repositorios propios</text>
-    <text x="375" y="222" class="cifra" text-anchor="end">43</text>
+    <text x="375" y="222" class="cifra" text-anchor="end">35</text>
   </g>
   <g class="fila" style="animation-delay: 300ms">
     <text x="25" y="248" class="clave">Pull requests fusionados</text>
-    <text x="375" y="248" class="cifra" text-anchor="end">133</text>
+    <text x="375" y="248" class="cifra" text-anchor="end">94</text>
   </g>
   <g class="fila" style="animation-delay: 360ms">
     <text x="25" y="274" class="clave">Estrellas recibidas</text>
