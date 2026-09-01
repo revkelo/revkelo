@@ -17,7 +17,7 @@
   <rect x="0.5" y="0.5" width="399" height="195" rx="10"
         fill="#0d1117" stroke="#20262e" />
   <text x="25" y="35" class="titulo">Lenguajes más usados</text>
-  <g><rect x="25.0" y="52" width="210.7" height="10" fill="#3572A5" /><rect x="235.7" y="52" width="46.5" height="10" fill="#44a51c" /><rect x="282.2" y="52" width="20.9" height="10" fill="#3178c6" /><rect x="303.1" y="52" width="19.5" height="10" fill="#f1e05a" /><rect x="322.7" y="52" width="16.4" height="10" fill="#b07219" /><rect x="339.0" y="52" width="11.9" height="10" fill="#e34c26" /><rect x="350.9" y="52" width="9.6" height="10" fill="#663399" /><rect x="360.5" y="52" width="5.3" height="10" fill="#DA5B0B" /></g>
+  <g><rect x="25.0" y="52" width="210.6" height="10" fill="#3572A5" /><rect x="235.6" y="52" width="46.5" height="10" fill="#44a51c" /><rect x="282.1" y="52" width="20.9" height="10" fill="#3178c6" /><rect x="303.0" y="52" width="19.7" height="10" fill="#f1e05a" /><rect x="322.7" y="52" width="16.3" height="10" fill="#b07219" /><rect x="339.0" y="52" width="11.9" height="10" fill="#e34c26" /><rect x="350.9" y="52" width="9.6" height="10" fill="#663399" /><rect x="360.5" y="52" width="5.3" height="10" fill="#DA5B0B" /></g>
   <g class="fila" style="animation-delay: 0ms">
     <circle cx="30" cy="84" r="5" fill="#3572A5" />
     <text x="43" y="88" class="clave">Python</text>
