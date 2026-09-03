@@ -17,26 +17,26 @@
   <rect x="0.5" y="0.5" width="399" height="195" rx="10"
         fill="#0d1117" stroke="#20262e" />
   <text x="25" y="35" class="titulo">Lenguajes más usados</text>
-  <g><rect x="25.0" y="52" width="210.6" height="10" fill="#3572A5" /><rect x="235.6" y="52" width="46.5" height="10" fill="#44a51c" /><rect x="282.1" y="52" width="20.9" height="10" fill="#3178c6" /><rect x="303.0" y="52" width="19.7" height="10" fill="#f1e05a" /><rect x="322.7" y="52" width="16.3" height="10" fill="#b07219" /><rect x="339.0" y="52" width="11.9" height="10" fill="#e34c26" /><rect x="350.9" y="52" width="9.6" height="10" fill="#663399" /><rect x="360.5" y="52" width="5.3" height="10" fill="#DA5B0B" /></g>
+  <g><rect x="25.0" y="52" width="210.1" height="10" fill="#3572A5" /><rect x="235.1" y="52" width="46.4" height="10" fill="#44a51c" /><rect x="281.5" y="52" width="21.2" height="10" fill="#3178c6" /><rect x="302.7" y="52" width="20.0" height="10" fill="#f1e05a" /><rect x="322.7" y="52" width="16.3" height="10" fill="#b07219" /><rect x="339.0" y="52" width="11.9" height="10" fill="#e34c26" /><rect x="350.9" y="52" width="9.5" height="10" fill="#663399" /><rect x="360.4" y="52" width="5.3" height="10" fill="#DA5B0B" /></g>
   <g class="fila" style="animation-delay: 0ms">
     <circle cx="30" cy="84" r="5" fill="#3572A5" />
     <text x="43" y="88" class="clave">Python</text>
-    <text x="185" y="88" class="tenue" text-anchor="end">60.2%</text>
+    <text x="185" y="88" class="tenue" text-anchor="end">60.0%</text>
   </g>
   <g class="fila" style="animation-delay: 70ms">
     <circle cx="215" cy="84" r="5" fill="#44a51c" />
     <text x="228" y="88" class="clave">QML</text>
-    <text x="370" y="88" class="tenue" text-anchor="end">13.3%</text>
+    <text x="370" y="88" class="tenue" text-anchor="end">13.2%</text>
   </g>
   <g class="fila" style="animation-delay: 140ms">
     <circle cx="30" cy="108" r="5" fill="#3178c6" />
     <text x="43" y="112" class="clave">TypeScript</text>
-    <text x="185" y="112" class="tenue" text-anchor="end">6.0%</text>
+    <text x="185" y="112" class="tenue" text-anchor="end">6.1%</text>
   </g>
   <g class="fila" style="animation-delay: 210ms">
     <circle cx="215" cy="108" r="5" fill="#f1e05a" />
     <text x="228" y="112" class="clave">JavaScript</text>
-    <text x="370" y="112" class="tenue" text-anchor="end">5.6%</text>
+    <text x="370" y="112" class="tenue" text-anchor="end">5.7%</text>
   </g>
   <g class="fila" style="animation-delay: 280ms">
     <circle cx="30" cy="132" r="5" fill="#b07219" />
