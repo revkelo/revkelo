@@ -21,11 +21,11 @@
   <text x="25" y="66" class="rotulo">ÚLTIMO AÑO</text>
   <g class="fila" style="animation-delay: 0ms">
     <text x="25" y="86" class="clave">Contribuciones</text>
-    <text x="375" y="86" class="cifra" text-anchor="end">564</text>
+    <text x="375" y="86" class="cifra" text-anchor="end">569</text>
   </g>
   <g class="fila" style="animation-delay: 60ms">
     <text x="25" y="112" class="clave">Commits</text>
-    <text x="375" y="112" class="cifra" text-anchor="end">527</text>
+    <text x="375" y="112" class="cifra" text-anchor="end">532</text>
   </g>
   <g class="fila" style="animation-delay: 120ms">
     <text x="25" y="138" class="clave">Pull requests</text>
