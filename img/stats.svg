@@ -50,6 +50,6 @@
   </g>
   <g class="fila" style="animation-delay: 420ms">
     <text x="25" y="300" class="clave">Seguidores</text>
-    <text x="375" y="300" class="cifra" text-anchor="end">2</text>
+    <text x="375" y="300" class="cifra" text-anchor="end">1</text>
   </g>
 </svg>
