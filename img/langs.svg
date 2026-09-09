@@ -17,11 +17,11 @@
   <rect x="0.5" y="0.5" width="399" height="195" rx="10"
         fill="#0d1117" stroke="#20262e" />
   <text x="25" y="35" class="titulo">Lenguajes más usados</text>
-  <g><rect x="25.0" y="52" width="210.1" height="10" fill="#3572A5" /><rect x="235.1" y="52" width="46.4" height="10" fill="#44a51c" /><rect x="281.5" y="52" width="21.2" height="10" fill="#3178c6" /><rect x="302.7" y="52" width="20.0" height="10" fill="#f1e05a" /><rect x="322.7" y="52" width="16.3" height="10" fill="#b07219" /><rect x="339.0" y="52" width="11.9" height="10" fill="#e34c26" /><rect x="350.9" y="52" width="9.5" height="10" fill="#663399" /><rect x="360.4" y="52" width="5.3" height="10" fill="#DA5B0B" /></g>
+  <g><rect x="25.0" y="52" width="209.4" height="10" fill="#3572A5" /><rect x="234.4" y="52" width="46.2" height="10" fill="#44a51c" /><rect x="280.5" y="52" width="21.1" height="10" fill="#3178c6" /><rect x="301.7" y="52" width="20.7" height="10" fill="#f1e05a" /><rect x="322.4" y="52" width="16.2" height="10" fill="#b07219" /><rect x="338.7" y="52" width="12.0" height="10" fill="#e34c26" /><rect x="350.6" y="52" width="9.8" height="10" fill="#663399" /><rect x="360.5" y="52" width="5.3" height="10" fill="#DA5B0B" /></g>
   <g class="fila" style="animation-delay: 0ms">
     <circle cx="30" cy="84" r="5" fill="#3572A5" />
     <text x="43" y="88" class="clave">Python</text>
-    <text x="185" y="88" class="tenue" text-anchor="end">60.0%</text>
+    <text x="185" y="88" class="tenue" text-anchor="end">59.8%</text>
   </g>
   <g class="fila" style="animation-delay: 70ms">
     <circle cx="215" cy="84" r="5" fill="#44a51c" />
@@ -31,17 +31,17 @@
   <g class="fila" style="animation-delay: 140ms">
     <circle cx="30" cy="108" r="5" fill="#3178c6" />
     <text x="43" y="112" class="clave">TypeScript</text>
-    <text x="185" y="112" class="tenue" text-anchor="end">6.1%</text>
+    <text x="185" y="112" class="tenue" text-anchor="end">6.0%</text>
   </g>
   <g class="fila" style="animation-delay: 210ms">
     <circle cx="215" cy="108" r="5" fill="#f1e05a" />
     <text x="228" y="112" class="clave">JavaScript</text>
-    <text x="370" y="112" class="tenue" text-anchor="end">5.7%</text>
+    <text x="370" y="112" class="tenue" text-anchor="end">5.9%</text>
   </g>
   <g class="fila" style="animation-delay: 280ms">
     <circle cx="30" cy="132" r="5" fill="#b07219" />
     <text x="43" y="136" class="clave">Java</text>
-    <text x="185" y="136" class="tenue" text-anchor="end">4.7%</text>
+    <text x="185" y="136" class="tenue" text-anchor="end">4.6%</text>
   </g>
   <g class="fila" style="animation-delay: 350ms">
     <circle cx="215" cy="132" r="5" fill="#e34c26" />
@@ -51,7 +51,7 @@
   <g class="fila" style="animation-delay: 420ms">
     <circle cx="30" cy="156" r="5" fill="#663399" />
     <text x="43" y="160" class="clave">CSS</text>
-    <text x="185" y="160" class="tenue" text-anchor="end">2.7%</text>
+    <text x="185" y="160" class="tenue" text-anchor="end">2.8%</text>
   </g>
   <g class="fila" style="animation-delay: 490ms">
     <circle cx="215" cy="156" r="5" fill="#DA5B0B" />
